@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\asyncWait\bin\Debug\net6.0\asyncWait.exe
+C:\Users\jacob\source\repos\asyncWait\bin\Debug\net6.0\asyncWait.deps.json
+C:\Users\jacob\source\repos\asyncWait\bin\Debug\net6.0\asyncWait.runtimeconfig.json
+C:\Users\jacob\source\repos\asyncWait\bin\Debug\net6.0\asyncWait.dll
+C:\Users\jacob\source\repos\asyncWait\bin\Debug\net6.0\asyncWait.pdb
+C:\Users\jacob\source\repos\asyncWait\obj\Debug\net6.0\asyncWait.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\asyncWait\obj\Debug\net6.0\asyncWait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\asyncWait\obj\Debug\net6.0\asyncWait.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\asyncWait\obj\Debug\net6.0\asyncWait.AssemblyInfo.cs
+C:\Users\jacob\source\repos\asyncWait\obj\Debug\net6.0\asyncWait.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\asyncWait\obj\Debug\net6.0\asyncWait.dll
+C:\Users\jacob\source\repos\asyncWait\obj\Debug\net6.0\refint\asyncWait.dll
+C:\Users\jacob\source\repos\asyncWait\obj\Debug\net6.0\asyncWait.pdb
+C:\Users\jacob\source\repos\asyncWait\obj\Debug\net6.0\asyncWait.genruntimeconfig.cache
+C:\Users\jacob\source\repos\asyncWait\obj\Debug\net6.0\ref\asyncWait.dll
